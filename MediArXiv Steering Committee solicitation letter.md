@@ -12,7 +12,7 @@ https://osf.io/preprints/
 
 We are writing to solicit applications for additional Steering Committee membership, with an interest in, but not limited to, early career scholars and those who work in the Global South. We anticipate adding five- to six- additional members, who will help to establish and guide MediArXiv together with the existing members. In addition to governance, Steering Committee members commit to contribute to light moderation of submissions on a rotating basis.
 
-Applications will be accepted through Friday, January 4, and successful applicants will be informed by January 11. 
+Applications will be accepted through Friday, January 23, and successful applicants will be informed by January 30. 
 
 More details about MediArXiv can be found out our information site:
 
@@ -27,10 +27,11 @@ Many thanks for considering MediArXiv service,
 
 The MediArXiv Steering Committee
 
-* Jeff Pooley, Associate Professor of Media & Communication, Muhlenberg College, co-founder of MediArXiv
-* Jeroen Sondervan, Open Access Publishing Consultant, Utrecht University, co-founder of MediArxiv
+* Jeff Pooley, Associate Professor of Media & Communication, Muhlenberg College
+* Jeroen Sondervan, Open Access Publishing Consultant, Utrecht University
 * Catherine Grant, Professor of Digital Media and Screen Studies, Birkbeck, University of London
 * Jussi Parikka, Professor of Technological Culture & Aesthetics, University of Southampton
+* Leah Lievrouw, Professor of Information Studies, UCALA
 
 MediArXiv is a project initiated by Open Access in Media Studies:
 
