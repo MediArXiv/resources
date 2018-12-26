@@ -31,7 +31,7 @@ The MediArXiv Steering Committee
 * Jeroen Sondervan, Open Access Publishing Consultant, Utrecht University
 * Catherine Grant, Professor of Digital Media and Screen Studies, Birkbeck, University of London
 * Jussi Parikka, Professor of Technological Culture & Aesthetics, University of Southampton
-* Leah Lievrouw, Professor of Information Studies, UCALA
+* Leah Lievrouw, Professor of Information Studies, UCLA
 
 MediArXiv is a project initiated by Open Access in Media Studies:
 
