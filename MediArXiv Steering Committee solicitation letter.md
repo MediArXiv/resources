@@ -30,7 +30,7 @@ Many thanks for considering MediArXiv service,
 The MediArXiv Steering Committee
 
 * Jeff Pooley, Associate Professor of Media & Communication, Muhlenberg College
-* Jeroen Sondervan, Open Access Publishing Consultant, Utrecht University
+* Jeroen Sondervan, open access expert & and co-founder of Open Access in Media Studies. Affiliated with Utrecht University
 * Catherine Grant, Professor of Digital Media and Screen Studies, Birkbeck, University of London
 * Jussi Parikka, Professor of Technological Culture & Aesthetics, University of Southampton
 * Leah Lievrouw, Professor of Information Studies, UCLA
