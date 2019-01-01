@@ -45,4 +45,18 @@ We are also a member of the Radical Open Access Collective:
 
 http://radicaloa.disruptivemedia.org.uk/
 
+### Listservs to send
+
+* IAMCR 
+* AoIR
+* CRT-NET
+* MeCCSA
+* H-Digital-History
+* ECREA 
+* Comm History
+* H-Rhetor
+* UDC
+* CITAMS
+* H-Film
+* JHistory
 
