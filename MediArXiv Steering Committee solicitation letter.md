@@ -1,8 +1,8 @@
 # Call for Steering Committee Members - MediArXiv
 
-The initial Steering Committee is excited to announce the forthcoming launch of MediArXiv, the nonprofit, open archive for media, film & communication studies. The open-access "preprint" server will soon accept papers and multimodal submissions from scholars across our diverse fields. MediArXiv will join the growing movement started by the math/physics/computer science-oriented arXiv.org over 25 years ago, as one of the first full-fledged preprint servers conceived for humanities and social science scholars. 
+The initial Steering Committee is excited to announce the forthcoming launch of MediArXiv, the nonprofit, open archive for media, film & communication studies. The open-access "preprint" server will soon accept submissions from scholars across our diverse fields. MediArXiv will join the growing movement started by the math/physics/computer science-oriented arXiv.org over 25 years ago, as one of the first full-fledged preprint servers conceived for humanities and social science scholars. 
 
-MediArxiv will accept working papers, pre-prints, accepted manuscripts (post-prints), and published manuscripts. The service is open to articles, books, and book chapters, as well as other scholarly forms (like video essays and digital humanities projects). 
+MediArxiv will accept working papers, pre-prints, accepted manuscripts (post-prints), and published manuscripts. The service is open to articles, books, and book chapters. There is currently some limited support for other scholarly forms (like video essays), which we plan to expand and officially support in the future.
 
 Our aim is to promote open scholarship across media, film and communication studies around the world. In addition to accepting and moderating submissions, we plan to advocate for policy changes at the major media, film, & communication studies professional societies around the world--to push for open-access friendly policies, in particular, for the journals that these associations sponsor. 
 
@@ -61,4 +61,5 @@ http://radicaloa.disruptivemedia.org.uk/
 * CITAMS
 * H-Film
 * JHistory
-BAFTSS - British Association of Film, Television and Screen Studies and Film-Philosophy
+* BAFTSS - British Association of Film, Television and Screen Studies
+* Film-Philosophy
