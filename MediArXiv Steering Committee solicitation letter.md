@@ -16,7 +16,7 @@ Applications will be accepted through Friday, January 23, and successful applica
 
 https://mediarxiv.com/steering-form/
 
-More details about MediArXiv can be found out our information site:
+More details about MediArXiv can be found at our information site:
 
 https://mediarxiv.com/
 
