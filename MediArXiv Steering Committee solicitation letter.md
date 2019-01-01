@@ -14,6 +14,8 @@ We are writing to solicit applications for additional Steering Committee members
 
 Applications will be accepted through Friday, January 23, and successful applicants will be informed by January 30. 
 
+https://mediarxiv.com/steering-form/
+
 More details about MediArXiv can be found out our information site:
 
 https://mediarxiv.com/
