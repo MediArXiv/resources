@@ -15,4 +15,5 @@
 ## Do I have permission to deposit my manuscript?
 
 
-This FAQ page from OSF/COS's 
+* This FAQ page for OSF/COS's -reprints should be useful: http://help.osf.io/m/preprints/l/726873-preprint-faqs
+* Also, this SocArXiv page: https://socopen.org/frequently-asked-questions/
