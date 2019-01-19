@@ -21,3 +21,7 @@ I would be happy to help answer any questions you might have about the service, 
 Best,
 
 [Name]
+
+## Attribution
+
+This email template is adapted from PaleorXiv's [email template](). 
