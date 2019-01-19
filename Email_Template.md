@@ -24,4 +24,4 @@ Best,
 
 ## Attribution
 
-This email template is adapted from PaleorXiv's [email template](). 
+This email template is adapted from PaleorXiv's [email template](https://github.com/paleorXiv/resources/blob/master/PaleorXiv%20email%20template.docx). 
