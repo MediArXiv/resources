@@ -26,7 +26,6 @@
 * All submissions will go through a basic screening process to check for conformation with these guidelines.
 * Submissions that do not meet these guidelines will be removed, and the authors notified.
 * Please make sure that all co-authors are aware of, and have agreed to, submission. They will be notified upon submission of preprints.
-*
 * All preprints can be updated with the postprint version or author-accepted manuscript. Please check for journal compliance and embargo periods where needed.
  
 ## USING MEDIARXIV ARTICLES
