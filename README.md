@@ -1,41 +1,30 @@
-## Main website: http://paleorxiv.org/
+## Main website: [https://mediarxiv.org](https://mediarxiv.org)
 
-# PaleorXiv
+## Companion website: [https://mediarxiv.com](https://mediarxiv.com)
 
-PaleorXiv is a free community-led digital archive for Paleontology research. We provide a non-profit platform for paleontologists to upload their working papers, pre-prints, accepted manuscripts (post-prints), and published papers. We also provide options to link data and code, and for article versioning. PaleorXiv is dedicated to speeding and opening up paleontological research and helping to build the future of scholarly communication.
+# MediArXiv
 
-We launched in the summer of 2017, and are open for submissions.
+MediArXiv is a free, community-led digital archive for media, film, and communication research (hosted on the [Open Science Framework](https://osf.io/preprints/)). We provide a non-profit platform for media, film, and communication scholars to upload their working papers, pre-prints, accepted manuscripts (post-prints), and published manuscripts. The service is open for articles, books, and book chapters.
 
-Twitter: https://twitter.com/paleorxiv
+The mission of MediArXiv is to open up media, film, and communication research to a broader readership and to help build the future of scholarly communication.
 
-# PaleorXiv Steering Committee
+We launched in the winter of 2019, and are now open for submissions.
 
-This website represents our temporary blog and information portal. The platform is led by a Steering Committee comprised of members from the global Palaeontology community:
+Twitter: https://twitter.com/mediarxiv
 
-1. Jon Tennant, Imperial College London, UK, and ScienceOpen, Germany
-2. Jostein Starrfelt, University of Oslo, Norway
-3. Jérémy Anquetin, University of Fribourg and Jurassic Museum, Switzerland
-4. Dan Peppe, Baylor University, USA
-5. Caitlin Syme, University of Queensland, Australia
-6. Gabriel Ferreira, Universidade de São Paulo
-7. Thea Boodhoo, Institute for the Study of Mongolian Dinosaurs
+# MediArXiv Steering Committee
 
-Please email us if you would like to be involved.
+MediArXiv is led by a Steering Committee comprised of members from the global media studies community:
 
-# Important links and media
+* [Jeff Pooley](https://jeffpooley.com), Associate Professor of Media & Communication, Muhlenberg College
+* [Jeroen Sondervan](https://www.uu.nl/staff/JSondervan), open access expert & and co-founder of Open Access in Media Studies. Affiliated with Utrecht University
+, Utrecht University
+* [Catherine Grant](https://catherinegrant.org/), Professor of Digital Media and Screen Studies, Birkbeck, University of London
+* [Jussi Parikka](https://jussiparikka.net/), Professor of Technological Culture & Aesthetics, University of Southampton
+* [Leah Lievrouw](http://www.tft.ucla.edu/2011/09/faculty-leah-lievrouw/), Professor of Information Studies, UCLA
 
-1. A guide to posting preprints (Open Science Framework): http://help.osf.io/m/preprints/l/627729-share-a-preprint#Modify-permissions-and-citations
-2. PaleorXiv on Wikipedia: https://en.wikipedia.org/wiki/Manuscript_(publishing)#Preprint
-3. PaleorXiv in Nature News: https://www.nature.com/news/heavyweight-funders-back-central-site-for-life-sciences-preprints-1.21466
-4. Discussion on citing preprints: http://fossilsandshit.com/should-we-cite-preprints/
-5. Life Sciences Network feature: http://lifesciencenetwork.com/blogs/leah-cannon/2017/05/30/changing-the-status-quo-jon-tennant-communications-director-at-scienceopen
-6. PaleorXiv in ARL Policy Notes: http://policynotes.arl.org/?p=1555
-7. Should we cite preprints? (Royal Society of Biology editorial includes paleorXiv): https://thebiologist.rsb.org.uk/biologist-opinion/159-biologist/opinion/1790-should-biologists-cite-preprints
-8. Fossil News: What would Open Access to all Paleontology research look like?: https://fossilnews.org/whats-inside-fossil-news-summer-2017/
-9. Nature Index: Encouraging paleontologists to stop hiding the bones: https://www.natureindex.com/news-blog/encouraging-palaeontologists-to-stop-hiding-the-bones
-10. COS press release: Six New Preprint Services Join a Growing Community Across Disciplines to Accelerate Scholarly Communication: https://cos.io/about/news/six-new-preprint-services-join-growing-community-across-disciplines-accelerate-scholarly-communication/
-11. The Open Access interviews: Rusty Spiedel, the Center for Open Science: https://poynder.blogspot.de/2017/08/the-open-access-interviews-rusty.html
-12. Flockademic: These trailblazers are paving the way for Open Access: https://medium.com/flockademic/these-trailblazers-are-paving-the-way-for-open-access-7d098172112b
-13. Digital Science podcast: Preprints, peer review and publishing: https://www.digital-science.com/blog/news/podcast-preprints-peer-review-publishing/
+Please [email us](mailto:mediarxiv@mediarxiv.org) if you would like to be involved.
 
-Our technology partner is the Center for Open Science, which hosts the PaleorXiv through the Open Science Framework Preprints server.
+MediArXiv is a project initiated by [Open Access in Media Studies](https://oamediastudies.com).
+
+Our technology partner is the [Center for Open Science](https://cos.io/), which hosts the MediArXiv through the [Open Science Framework Preprints](https://osf.io/preprints/) server.
