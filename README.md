@@ -28,3 +28,5 @@ Please [email us](mailto:mediarxiv@mediarxiv.org) if you would like to be involv
 MediArXiv is a project initiated by [Open Access in Media Studies](https://oamediastudies.com).
 
 Our technology partner is the [Center for Open Science](https://cos.io/), which hosts the MediArXiv through the [Open Science Framework Preprints](https://osf.io/preprints/) server.
+
+This README text and other materials in the repository are adapted from PaleorXiv’s openly licensed [resources](https://github.com/paleorXiv/resources) repository.
