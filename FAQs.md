@@ -22,8 +22,7 @@ Papers are moderated before they appear on MediArXiv, a process we expect to tak
 
 ## What can I post to MediArXiv?
 
-We encourage submissions across all domains of media, film, and communication studies, along with cognate fields like information science and science & technology studies.
-Although MediArXiv is part of the Open Science Framework “Preprints” service, we host research works at a number of stages in the research process:
+We encourage submissions across all domains of media, film, and communication studies, along with cognate fields like information science and science & technology studies. Although MediArXiv is part of the Open Science Framework “Preprints” service, we host research works at a number of stages in the research process:
 
 * **In-progress works:** Any draft of a work that is ready to share with interested parties, but has not yet been peer reviewed. If you are sharing your work with a group of colleagues, a conference, or a journal, this may be the perfect time to widen the circle and post it on MediArXiv.
 * **Preprints:** Most people use this term to refer to completed works that have not yet been peer reviewed (like working papers).
@@ -74,5 +73,15 @@ Yes. In addition, if a paper previously has a DOI from a different publisher, th
 ## What is the Center for Open Science? And Open Science Framework?
 
 The [Center for Open Science](https://cos.io/) (COS) is our technology partner and the owner of [OSF Preprints](https://osf.io/preprints/), the platform on which MediArXiv runs. OSF Preprints is a part of the [Open Science Framework](https://osf.io/) (OSF), which “provides free and open source project management support for researchers across the entire research lifecycle.” The OSF not only hosts MediArXiv papers, but also allows you to link your papers to [other components of your research projects](http://help.osf.io/m/projects), such as data, code, and media files.
+
+## Further Reading
+
+* Geltner, G. (2018) <a href="https://www.scienceguide.nl/2018/12/long-live-the-curator/" rel="noopener" target="_blank">Long live the curator! Preprints and a Future for Humanities Publishing</a>
+* Geltner, G. &amp; Willinsky, J. (2018) <a href="http://www.guygeltner.net/blog/652018preprint-to-monograph-a-path-to-travel-by" rel="noopener" target="_blank">Preprint to Monograph: A Path to Travel By</a>
+* A guide to posting preprints (<a href="http://help.osf.io/m/preprints/l/627729-share-a-preprint#Modify-permissions-and-citations" rel="noopener" target="_blank">Open Science Framework</a>)
+* COS press release: <a href="https://cos.io/about/news/six-new-preprint-services-join-growing-community-across-disciplines-accelerate-scholarly-communication/" rel="noopener" target="_blank">Six New Preprint Services Join a Growing Community Across Disciplines to Accelerate Scholarly Communication</a>
+* Digital Science podcast: <a href="https://www.digital-science.com/blog/news/podcast-preprints-peer-review-publishing/" rel="noopener" target="_blank">Preprints, peer review and publishing</a>
+* Sondervan, J. (2018) <a href="https://mediastudies.hypotheses.org/867" rel="noopener" target="_blank">Open Science and Open Media Studies: Questions on a culture in transition</a>
+<a href="https://www.fosteropenscience.eu/node/2332" rel="noopener" target="_blank">FosterOA training on preprints</a>
 
 *These FAQs are adapted from [SocArXiv](https://socopen.org/frequently-asked-questions/) and [PaleorXiv](https://paleorxiv.github.io/faq.html).*
