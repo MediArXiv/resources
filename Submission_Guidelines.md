@@ -8,7 +8,7 @@
 * Many of our published submissions fall into two major types:
 	* Preprints of articles, books, or book chapters in parallel to traditional publication.
 	* Previously published articles, books, or book chapters that you wish to make Open Access.
-* Please check the database for [Sherpa/ROMEO](http://www.sherpa.ac.uk/romeo/index.php) for publisher policies on pre/post-prints
+* Please check the [Sherpa/ROMEO](http://www.sherpa.ac.uk/romeo/index.php) database for publisher policies on pre/post-prints
 * We encourage submissions across all domains of media, film, and communication studies, along with cognate fields like information science and science & technology studies.
  
 ## How To Share a Work On MediArXiv
