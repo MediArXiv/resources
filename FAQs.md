@@ -62,17 +62,13 @@ Yes, Google Scholar is successfully ingesting and linking to MediArXiv works (an
 
 Yes. In addition, if a paper previously has a DOI from a different publisher, that information can be included when uploading it to MediArXiv, which will allow the paper to link to the latest published version. Note also that the OSF platform on which MediArXiv runs creates a persistent URL for every paper.
 
-## What are the benefits of using SocArXiv?
+## What are the benefits of using MediArXiv?
 
 * Stable, persistent URL to use in your CV, professional portfolio, citations, etc.
 * Download statistics
 * Getting your work out faster than traditional publishing
 * One place to store many outputs and materials for each project
 * Promote media scholarship without walls by supporting open access, open source, public goods research infrastructure.
-
-## What is the Center for Open Science? And Open Science Framework?
-
-The [Center for Open Science](https://cos.io/) (COS) is our technology partner and the owner of [OSF Preprints](https://osf.io/preprints/), the platform on which MediArXiv runs. OSF Preprints is a part of the [Open Science Framework](https://osf.io/) (OSF), which “provides free and open source project management support for researchers across the entire research lifecycle.” The OSF not only hosts MediArXiv papers, but also allows you to link your papers to [other components of your research projects](http://help.osf.io/m/projects), such as data, code, and media files.
 
 ## Further Reading
 
