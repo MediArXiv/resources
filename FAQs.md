@@ -42,6 +42,8 @@ No, MediArXiv is intended for scholarly works. But data and other files can be u
 
 In most cases, the answer is ‘no’. Use of preprints has been ongoing in other disciplines for, in some cases, a few decades. As a result, many publishers have preprint-friendly policies already in place for their journals. Be sure to check your journal’s policy on the [Sherpa/Romeo](http://www.sherpa.ac.uk/romeo/index.php) database. 
 
+MediArXiv is preparing a data sheet with journals in the field of media and communication studies and their policies on preprints. The data sheet is work in progress and can be found [here](https://docs.google.com/spreadsheets/d/1X2MeoykMZuQUQ9c1Rvksjz08owRZFoNzF-pBiZKDPJA/htmlview#gid=0).
+
 Some prominent media studies publishers still discourage preprints. One of MediArXiv’s core aims is to help the fields’ scholars change publisher policies, especially those operated by scholarly associations.
 
 ## What license should I choose?
