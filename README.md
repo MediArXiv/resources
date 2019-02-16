@@ -23,7 +23,7 @@ MediArXiv is led by a Steering Committee comprised of members from the global me
 * [Jussi Parikka](https://jussiparikka.net/), Professor of Technological Culture & Aesthetics, University of Southampton
 * [Leah Lievrouw](http://www.tft.ucla.edu/2011/09/faculty-leah-lievrouw/), Professor of Information Studies, UCLA
 
-Please [email us](mailto:mediarxiv@mediarxiv.org) if you would like to be involved.
+Please [email us](mailto:mediarxiv@mediarxiv.com) if you would like to be involved.
 
 MediArXiv is a project initiated by [Open Access in Media Studies](https://oamediastudies.com).
 

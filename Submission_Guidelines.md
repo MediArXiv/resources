@@ -34,6 +34,6 @@
 * Please exercise the same care and judgment you would use for any research output when it comes to the re-use of preprints.
 * We strongly encourage community interaction through commenting and sharing of preprints.
 
-For more information, please [contact us](mailto:mediarxiv@mediarxiv.org).
+For more information, please [contact us](mailto:mediarxiv@mediarxiv.com).
 
 *These submission guidelines are adapted from the [guidelines](https://github.com/paleorXiv/resources/blob/master/PaleorXiv%20submission%20guidelines%20for%20authors.pdf) of Paleorxiv.*

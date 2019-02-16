@@ -26,7 +26,7 @@ Claims of copyright infringement should be sent to the Center for Open Science i
 
 ## Procedure
 
-Work will be reviewed by a moderator before appearing publicly on MediArxiv. If a paper or other work is not accepted, the moderator will include a description of the reason. Work that does not pass moderation will remain on the OSF platform but will not be identified as part of MediArXiv. Authors are free to resubmit such work after addressing the issues raised by the moderator. Authors also may [contact us](mailto:medairxiv@mediarxiv.com) to discuss or appeal a moderation decision.
+Work will be reviewed by a moderator before appearing publicly on MediArxiv. If a paper or other work is not accepted, the moderator will include a description of the reason. Work that does not pass moderation will remain on the OSF platform but will not be identified as part of MediArXiv. Authors are free to resubmit such work after addressing the issues raised by the moderator. Authors also may [contact us](mailto:mediarxiv@mediarxiv.com) to discuss or appeal a moderation decision.
 
 **Please note:** At present we do not have the capacity to query authors during the moderation process. If a paper does not pass moderation we will specify reasons, but we can’t discuss the reasons with the author prior to making a decision. Please don’t be discouraged by negative moderation decisions, and feel free to [contact us](mailto:medairxiv@mediarxiv.com) with any questions.
 
