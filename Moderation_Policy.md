@@ -13,7 +13,11 @@ The MediArXiv moderation process accepts papers and other works that:
 1. **Are scholarly content.** This includes original research, reviews, essays, critiques and comments on other work, systematic reviews, hypotheses, ‘negative’ results, and data and methods papers. Work on MediArXiv is either research or engages with research. Over time, we are committed to accepting scholarly works produced in a variety of non-traditional media formats.
 2. **Are in a research area that we support.** We accept work from across all domains of media, film, and communication studies, along with cognate fields like information science and science & technology studies.
 3. **Are plausibly categorized.** We allow authors to select their own categories from our subject taxonomy, but check whether there are obvious errors or categorizations that lack plausibility.
-4. **Are correctly attributed.** We do a simple Internet search to see if someone else has publicly claimed authorship of the work.
+4. **Are correctly attributed.**
+	* We do a simple Internet search to see if someone else has publicly claimed authorship of the work.
+	* All authors listed on the work must be included as contributors, and all contributors must be listed on the first page or title page of the work, in the same order.
+	* The title of the paper must match the metadata entry provided.
+	* Extraneous information in the title (such as journal name or other metadata) is not permitted.
 5. **Are in languages that we can moderate.** We welcome work submitted in any language, provided we have a moderator that can review it adequately according to our policy. Papers submitted in non-English languages will be held in the moderation queue until we can get them verified.
 
 For more information, please see our Submission Guidelines, and check for journal policies on submitting pre-prints with the [SHERPA/RoMEO database](http://www.sherpa.ac.uk/romeo/index.php).
