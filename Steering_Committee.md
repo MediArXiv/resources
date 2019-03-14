@@ -8,7 +8,7 @@
 * [Jonathan Gray](https://jonathangray.org/), Lecturer in Critical Infrastructure Studies, King's College London (UK)
 * [Adelheid Heftberger](https://hcommons.org/members/heftberger2017/), Head of Film Access, Bundesarchiv (German Federal Archive) (Germany)
 * [Leah Lievrouw](http://www.tft.ucla.edu/2011/09/faculty-leah-lievrouw/), Professor of Information Studies, UCLA (USA)
-* [Nyasha Mboti](https://www.uj.ac.za/faculties/humanities/school-of-communication/Pages/comm%20studies%20staff/Nyasha-Mboti.aspx), Associate Professor of Communication Studies, University of Johannesburg (South Africa)
+* [Nyasha Mboti](https://www.uj.ac.za/contact/Pages/Nyasha-Mboti.aspx), Associate Professor of Communication Studies, University of Johannesburg (South Africa)
 * [Gabriel Menotti](http://comunicacaosocial.ufes.br/pos-graduacao/POSCOM/detalhes-de-pessoal), Associate Professor of Communications, Federal University of Espírito Santo (Brazil) **Portuguese, Spanish, and French language moderation** - [@menottissimo](https://twitter.com/menottissimo)
 * [Ricardo Cedeño Montaña](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001350433), Associate Professor of Communications, Universidad de Antioquia (Colombia) **[Spanish language moderation]** - [@drnn1076](https://twitter.com/drnn1076)
 * [Maria O'Brien](https://mobile.twitter.com/dublinbermia?lang=en), PhD Candidate, School of Communications, Dublin City University (Ireland)
