@@ -1,7 +1,7 @@
 # Steering committee members
 
 * [Jeff Pooley](https://jeffpooley.com), Associate Professor of Media & Communication, Muhlenberg College (USA) **[Coordinator]** - [@jeffersonpooley](https://twitter.com/jeffersonpooley)
-* [Jeroen Sondervan](https://www.uu.nl/staff/JSondervan), open access expert & and co-founder of Open Access in Media Studies. Affiliated with Utrecht University (Netherlands) **[Coordinator]**
+* [Jeroen Sondervan](https://www.uu.nl/staff/JSondervan), open access expert & and co-founder of Open Access in Media Studies. Affiliated with Utrecht University (Netherlands) **[Coordinator]** | **[Dutch language moderation]**
 * [Sarah-Mai Dang](http://www.oabooks.de/about/academic-cv-en/), Postdoctoral Researcher at the Institute of Media Studies, Philipps University Marburg (Germany) **[German and French language moderation]** - [@SarahMaiDang](https://twitter.com/SarahMaiDang)
 * [Lai-Tze Fan](https://laitzefan.com/), Assistant Professor of Rhetoric and Digital Media, University of Waterloo (Canada) - [@lychee_fan](https://twitter.com/lychee_fan)
 * [Catherine Grant](https://catherinegrant.org/), Professor of Digital Media and Screen Studies, Birkbeck, University of London (UK)
@@ -13,7 +13,7 @@
 * [Ricardo Cedeño Montaña](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001350433), Associate Professor of Communications, Universidad de Antioquia (Colombia) **[Spanish language moderation]** - [@drnn1076](https://twitter.com/drnn1076)
 * [Maria O'Brien](https://mobile.twitter.com/dublinbermia?lang=en), PhD Candidate, School of Communications, Dublin City University (Ireland)
 * [Kate O'Riordan](http://www.sussex.ac.uk/profiles/30746), Professor of Digital Culture & Head of School of Media, Film and Music, University of Sussex (UK) - [@kathleenor](https://twitter.com/kathleenor)
-* [Jussi Parikka](https://jussiparikka.net/), Professor of Technological Culture & Aesthetics, University of Southampton (UK)
+* [Jussi Parikka](https://jussiparikka.net/), Professor of Technological Culture & Aesthetics, University of Southampton (UK) 
 * [Xiang Ren](https://www.westernsydney.edu.au/ics/people/researchers/xiang_ren), Senior Lecturer in Chinese Media and Culture, Western Sydney University (Australia) **[Chinese language moderation]** - [@renxiangcn](https://twitter.com/renxiangcn)
 * [Cheryll Ruth Soriano](http://www.cheryllsoriano.com/), Associate Professor of Communication, De La Salle University (Philippines)
 * [Ece Vitrinel](http://cv.gsu.edu.tr/en/CV/ece-vitrinel), Assistant Professor of Communication, Galatasaray University (Turkey) **French and Turkish language oderation** - [@ecevitrinel](https://twitter.com/ecevitrinel) 
