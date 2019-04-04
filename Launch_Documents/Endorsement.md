@@ -1,0 +1,3 @@
+"MediArXiv offers an open access platform to share research run by and for researchers.  Its growing community of scholars and papers in media and communications opens international dialogues on scholars' own terms. Our field is especially critical of the operations of power and money in cultural evolution: here is a practice that turns critique into an new actuality we can all learn from."
+
+* Sean Cubitt, Goldsmiths, University of London
