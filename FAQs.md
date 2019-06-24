@@ -10,7 +10,7 @@ MediArXiv is run by the volunteer members of the [Steering Committee](/README.md
 
 ## What is the Center for Open Science? And Open Science Framework?
 
-The [Center for Open Science](https://cos.io/) (COS) is our technology partner and the owner of [OSF Preprints](https://osf.io/preprints/), the platform on which MediArXiv runs. OSF Preprints is a part of the [Open Science Framework](https://osf.io/) (OSF), which “provides free and open source project management support for researchers across the entire research lifecycle.” The OSF not only hosts MediArXiv papers, but also allows you to link your papers to [other components of your research projects](http://openscience.zendesk.com/hc/m/projects), such as data, code, and media files.
+The [Center for Open Science](https://cos.io/) (COS) is our technology partner and the owner of [OSF Preprints](https://osf.io/preprints/), the platform on which MediArXiv runs. OSF Preprints is a part of the [Open Science Framework](https://osf.io/) (OSF), which “provides free and open source project management support for researchers across the entire research lifecycle.” The OSF not only hosts MediArXiv papers, but also allows you to link your papers to [other components of your research projects](https://openscience.zendesk.com/hc/en-us/articles/360019737594-Create-a-Project), such as data, code, and media files.
 
 ## How do I upload a work?
 
@@ -32,11 +32,11 @@ Accepted formats include, but is not limited to, papers, book chapters, and revi
 
 ## Are multimedia submissions allowed?
 
-Not currently, though we are committed to working with our platform host, the OSF, to expand acceptable scholarly work submissions in a variety of non-traditional media formats. Many files, including most media formats, can be linked to an a published MediArXiv submission as part of an OSF “project.” More details are available [here](http://openscience.zendesk.com/hc/m/projects)).
+Not currently, though we are committed to working with our platform host, the OSF, to expand acceptable scholarly work submissions in a variety of non-traditional media formats. Many files, including most media formats, can be linked to an a published MediArXiv submission as part of an OSF “project.” More details are available [here](https://openscience.zendesk.com/hc/en-us/articles/360019737594-Create-a-Project)).
 
 ## Does MediArXiv accept data-only submissions?
 
-No, MediArXiv is intended for scholarly works. But data and other files can be uploaded and linked to a MediArXiv submission. Every paper on MediArXiv is automatically associated with a “Project” on the [Open Science Framework](https://osf.io/) platform. Researchers can attach data, code, or other research materials to their papers by including them in the associated “project.” We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency. (See OSF’s [guide for creating and managing projects](http://openscience.zendesk.com/hc/m/projects).) for detailed instructions on how to associate data and other files with a MediArXiv work.)
+No, MediArXiv is intended for scholarly works. But data and other files can be uploaded and linked to a MediArXiv submission. Every paper on MediArXiv is automatically associated with a “Project” on the [Open Science Framework](https://osf.io/) platform. Researchers can attach data, code, or other research materials to their papers by including them in the associated “project.” We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency. (See OSF’s [guide for creating and managing projects](https://openscience.zendesk.com/hc/en-us/articles/360019737594-Create-a-Project).) for detailed instructions on how to associate data and other files with a MediArXiv work.)
 
 ## Will publishing a preprint mean I can’t publish in a journal?
 
