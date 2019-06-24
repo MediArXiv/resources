@@ -6,7 +6,7 @@ MediArXiv accepts scholarly work from across the fields of media, communication 
 
 ## Policy
 
-MediArXiv accepts papers, book chapters, and other scholarly works at any stage of the publication process. We moderate papers before they appear publicly, which is called “pre-moderation” on the Open Science Framework platform. To learn more about how this moderation works on our system, visit [this page](http://help.osf.io/m/preprints/l/806116-submitting-to-a-moderated-preprint-service#submitting-to-preprint-service-that-uses-a-pre-moderation) from our hosts. Subject to volume demands, we expect to post papers and others works submitted for moderation within 1-3 business days.
+MediArXiv accepts papers, book chapters, and other scholarly works at any stage of the publication process. We moderate papers before they appear publicly, which is called “pre-moderation” on the Open Science Framework platform. To learn more about how this moderation works on our system, visit [this page](https://openscience.zendesk.com/hc/en-us/articles/360019930553-Submitting-to-a-Moderated-Preprint-Service) from our hosts. Subject to volume demands, we expect to post papers and others works submitted for moderation within 1-3 business days.
 
 The MediArXiv moderation process accepts papers and other works that:
 
