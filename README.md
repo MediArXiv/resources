@@ -18,7 +18,7 @@ MediArXiv is led by a Steering Committee comprised of members from the global me
 
 # Steering committee members
 
-* [Jeff Pooley](https://jeffpooley.com), Associate Professor of Media & Communication, Muhlenberg College (USA) **[Coordinator]**
+* [Jeff Pooley](https://jeffpooley.com), Professor of Media & Communication, Muhlenberg College (USA) **[Coordinator]**
 * [Jeroen Sondervan](https://www.uu.nl/staff/JSondervan), open access expert & and co-founder of Open Access in Media Studies. Affiliated with Utrecht University (Netherlands) **[Coordinator]**
 * [Sarah-Mai Dang](http://www.oabooks.de/about/academic-cv-en/), Postdoctoral Researcher at the Institute of Media Studies, Philipps University Marburg (Germany)
 * [Lai-Tze Fan](https://laitzefan.com/), Assistant Professor of Rhetoric and Digital Media, University of Waterloo (Canada)
