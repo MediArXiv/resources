@@ -16,4 +16,4 @@
 * [Jussi Parikka](https://jussiparikka.net/), Professor of Technological Culture & Aesthetics, University of Southampton (UK) **[Finnish language moderation]** - [@juspar](https://twitter.com/juspar)
 * [Xiang Ren](https://www.westernsydney.edu.au/ics/people/researchers/xiang_ren), Senior Lecturer in Chinese Media and Culture, Western Sydney University (Australia) **[Chinese language moderation]** - [@renxiangcn](https://twitter.com/renxiangcn)
 * [Cheryll Ruth Soriano](http://www.cheryllsoriano.com/), Associate Professor of Communication, De La Salle University (Philippines) - [@chesoriano](https://twitter.com/chesoriano)
-* [Ece Vitrinel](http://cv.gsu.edu.tr/en/CV/ece-vitrinel), Assistant Professor of Communication, Galatasaray University (Turkey) **French and Turkish language moderation** - [@ecevitrinel](https://twitter.com/ecevitrinel) 
+* [Ece Vitrinel](http://cv.gsu.edu.tr/en/CV/ece-vitrinel), Assistant Professor of Communication, Galatasaray University (Turkey) [**French and Turkish language moderation**] - [@ecevitrinel](https://twitter.com/ecevitrinel) 

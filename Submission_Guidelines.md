@@ -10,6 +10,7 @@
 	* Previously published articles, books, or book chapters that you wish to make Open Access.
 * Please check the [Sherpa/ROMEO](http://www.sherpa.ac.uk/romeo/index.php) database for publisher policies on pre/post-prints
 * We encourage submissions across all domains of media, film, and communication studies, along with cognate fields like information science and science & technology studies.
+* We accept submissions in a number of language, including English, Chinese, Dutch, French, Finnish, German, Portuguese, Spanish, and Turkish. Additional languages may be added depending on Steering Committee competency.
  
 ## How To Share a Work On MediArXiv
 
