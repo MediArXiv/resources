@@ -32,15 +32,15 @@ For more information, please see our Submission Guidelines, and check for journa
     
 ## Copyright compliance
 
-Moderation does include verification of copyright status, which we assess based on individual journal policies. Where we are uncertain, we check with submitting authors to verify their status. We seek to accept only papers and other works that comply with copyright law. We ask that authors share only that work they have the right to share. Actively affirming this is part of the submission process for each paper uploaded. Please [contact us](mailto:mediarxiv@mediarxiv.com) if you are uncertain about this part of the procedure.
+Moderation does include verification of copyright status, which we assess based on individual journal policies. Where we are uncertain, we check with submitting authors to verify their status (through an informal email contact, since there is currently no formal method for author queries). We seek to accept only papers and other works that comply with copyright law. We ask that authors share only that work they have the right to share. Actively affirming this is part of the submission process for each paper uploaded. Please [contact us](mailto:mediarxiv@mediarxiv.com) if you are uncertain about this part of the procedure.
 
 Claims of copyright infringement should be sent to the Center for Open Science in accordance with their policy, which is [here](https://github.com/CenterForOpenScience/cos.io/blob/master/TERMS_OF_USE.md).
 
 ## Procedure
 
-Work will be reviewed by a moderator before appearing publicly on MediArxiv. If a paper or other work is not accepted, the moderator will include a description of the reason. Work that does not pass moderation will remain on the OSF platform but will not be identified as part of MediArXiv. Authors are free to resubmit such work after addressing the issues raised by the moderator. Authors also may [contact us](mailto:mediarxiv@mediarxiv.com) to discuss or appeal a moderation decision.
+Work will be reviewed by a moderator before appearing publicly on MediArXiv. If a paper or other work is not accepted, the moderator will include a description of the reason. Work that does not pass moderation will remain on the OSF platform but will not be identified as part of MediArXiv. Authors are free to resubmit such work after addressing the issues raised by the moderator. Authors also may [contact us](mailto:mediarxiv@mediarxiv.com) to discuss or appeal a moderation decision.
 
-**Please note:** At present we do not have the capacity to query authors during the moderation process. If a paper does not pass moderation we will specify reasons, but we can’t discuss the reasons with the author prior to making a decision. Please don’t be discouraged by negative moderation decisions, and feel free to [contact us](mailto:medairxiv@mediarxiv.com) with any questions.
+**Please note:** At present we do not have the capacity to formally query authors during the moderation process. If a paper does not pass moderation we will specify reasons, but we can’t discuss the reasons with the author prior to making a decision. Please don’t be discouraged by negative moderation decisions, and feel free to [contact us](mailto:medairxiv@mediarxiv.com) with any questions.
 
 **Attribution:** This Moderation Policy is adapted from PaleorXiv’s [Moderation Policy](https://github.com/paleorXiv/resources/blob/master/Moderation%20policy.pdf).
    
