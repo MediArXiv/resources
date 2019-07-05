@@ -24,6 +24,7 @@ The MediArXiv moderation process accepts papers and other works that:
 	* French
 	* Finnish
 	* German
+	* Irish
 	* Portuguese
 	* Spanish
 	* Turkish
