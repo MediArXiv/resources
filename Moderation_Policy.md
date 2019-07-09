@@ -18,7 +18,7 @@ The MediArXiv moderation process accepts papers and other works that:
 	* All authors listed on the work must be included as contributors, and all contributors must be listed on the first page or title page of the work, in the same order.
 	* The title of the paper must match the metadata entry provided.
 	* Extraneous information in the title (such as journal name or other metadata) is not permitted.
-5. **Are in languages that we can moderate.** We welcome work submitted in any language, provided we have a moderator that can review it adequately according to our policy. Papers submitted in non-English languages will be held in the moderation queue until we can get them verified. The languages we current support are:
+5. **Are in languages that we can moderate.** We welcome work submitted in any language, provided we have a moderator that can review it adequately according to our policy. Papers submitted in non-English languages will be held in the moderation queue until we can get them verified. The languages we currently support are:
 	* Chinese
 	* Dutch
 	* French
