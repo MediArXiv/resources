@@ -19,7 +19,8 @@ The MediArXiv moderation process accepts papers and other works that:
 	* The title of the paper must match the metadata entry provided.
 	* Extraneous information in the title (such as journal name or other metadata) is not permitted.
 5. **Are in languages that we can moderate.** We welcome work submitted in any language, provided we have a moderator that can review it adequately according to our policy. Papers submitted in non-English languages will be held in the moderation queue until we can get them verified. The languages we currently support are:
-	* Chinese
+
+	* Chinese (Traditional & Simplified)
 	* Dutch
 	* French
 	* Finnish
