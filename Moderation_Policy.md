@@ -46,3 +46,4 @@ Work will be reviewed by a moderator before appearing publicly on MediArXiv. If 
 
 **Attribution:** This Moderation Policy is adapted from PaleorXiv’s [Moderation Policy](https://github.com/paleorXiv/resources/blob/master/Moderation%20policy.pdf).
    
+*The policy was formally adopted in July 2019, with a unanimous (11-0) vote by the MediArXiv Steering Committee.*
