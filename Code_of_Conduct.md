@@ -39,4 +39,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 This Code of Conduct is adapted from the paleorXiv [Code of Conduct](https://github.com/paleorXiv/resources/blob/master/Code%20of%20Conduct.pdf), itself adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-*The policy was formally adopted in July 2019, with a unanimous (7-0) vote by the MediArXiv Steering Committee.
+*The policy was formally adopted in July 2019, with a unanimous (7-0) vote by the MediArXiv Steering Committee.*
