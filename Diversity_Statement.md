@@ -10,7 +10,7 @@ In an effort to represent and include the broadest possible spectrum of media sc
 
 * **FIELD:** We will aim to include representatives from a broad spectrum of media studies fields such as film studies, speech and rhetoric, communication, information studies, media studies, and science & technology studies. 
 * **GENDER IDENTITY:** We will strive for gender parity in our Steering Committee, with awareness of the need for flexibility to include transgender and gender-fluid people.
-* **ETHNIC AND CULTURAL BACKGROUND:** We will strive to include a broad range of ethnic and cultural backgrounds in our Steering Committee, with particular focus on traditionally excluded populations including Asian, black, indigenous, Pacific island, and Latin scholars.
+* **ETHNIC AND CULTURAL BACKGROUND:** We will strive to include a broad range of ethnic and cultural backgrounds in our Steering Committee, with particular focus on traditionally excluded populations including Asian, black, indigenous, Pacific island, and Latinx scholars.
 * **GEOGRAPHY:** We will respect the global nature of the media studies community by aiming for significant representation from regions beyond North America and Europe.
 * **CAREER:** We will aim to have at least one representative each from key stages within academia including students; early-, mid-, and late-career professors; researchers at teaching-centric and research-centric universities; and independent scholars.
 * **ABILITY:** We will aim to include representatives with a broad range of physical and mental abilities.
@@ -21,8 +21,7 @@ In an effort to represent and include the broadest possible spectrum of media sc
 
 We recognize that we may not always achieve all of these objectives, and will be as transparent as possible about our effectiveness within the confines of respecting the privacy of our Steering Committee members.
 
-We also recognize we may not yet be considering all aspects of how identity shapes the science that we do. We further commit to continuing to learn and adapt how we define and include diverse populations in response to the needs of our greater community.
-If you are interested in joining the Steering Committee, please contact us [here](maito:mediarxiv@mediarxiv.com).
+We also recognize we may not yet be considering all aspects of how identity shapes the scholarship that we do. We further commit to continuing to learn and adapt how we define and include diverse populations in response to the needs of our greater community.
 
 This statement is adapted from the [Diversity Statement](https://github.com/paleorXiv/resources/blob/master/Diversity%20statement.pdf) of PaleorXiv.
  
