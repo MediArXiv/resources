@@ -1,10 +1,10 @@
 # MediArXiv Diversity Statement
 
-Capturing a broad spectrum of interest and experiences will help MediArXiv consider and include the full media, communicator, and film studies community. An essential step to achieving this objective is to ensure its Steering Committee’s diversity.
+Capturing a broad spectrum of interest and experiences will help MediArXiv consider and include the full media, communication, and film studies community. An essential step to achieving this objective is to ensure its Steering Committee’s diversity.
 
-Media research is conducted by people of a diverse range of demographics and psychographics, including gender identities, sexual orientations, racial and cultural backgrounds, abilities, religions, ages, career stages and fields, and socioeconomic and immigration statuses. These identities impact on how scholarship is produced and shared. We recognize that a diverse and inclusive scholarly community asks a broader range of questions, yet also faces different barriers to participating in media studies. By listening to diverse voices, we will be rewarded by a greater understanding of our world.
+Media research is conducted by people of a diverse range of demographics, psychographics,and  histories, including gender identities, sexual orientations, racial, ethnic, and cultural backgrounds, abilities, religions, ages, career stages and fields, and socioeconomic and immigration statuses. These identities impact on how scholarship is produced and shared. We recognize that a diverse and inclusive scholarly community asks a broader range of questions, yet also faces different barriers to participating in media studies. By listening to diverse voices, we will be rewarded with a greater understanding of our world.
 
-Scholars of media hail from a diverse range of disciplinary and cross-disciplinary backgrounds that span the humanities and social sciences. MediArXiv is committed to representing that intellectual diversity in its Steering Committee membership.
+Scholars of media hail from a diverse range of disciplinary and cross-disciplinary backgrounds that span the humanities and social sciences, and draw upon multiple positionalities and ways of seeing. MediArXiv is committed to representing that intellectual diversity in its Steering Committee membership.
 
 In an effort to represent and include the broadest possible spectrum of media scholars, MediArXiv is committed to the following objectives in forming its Steering Committee:
 
@@ -15,6 +15,9 @@ In an effort to represent and include the broadest possible spectrum of media sc
 * **CAREER:** We will aim to have at least one representative each from key stages within academia including students; early-, mid-, and late-career professors; researchers at teaching-centric and research-centric universities; and independent scholars.
 * **ABILITY:** We will aim to include representatives with a broad range of physical and mental abilities.
 * **SEXUAL ORIENTATION:** We will aim to include representatives with a broad range of sexual orientations.
+* **RELIGION:** We will aim to include representatives with a broad range of religious commitments.
+* **AGE:** We will aim to include representatives with a broad range of ages.
+* **WAYS OF SEEING:** We will aim to include representatives who bear a diverse range of worldviews, politics, and points of fives.
 
 We recognize that we may not always achieve all of these objectives, and will be as transparent as possible about our effectiveness within the confines of respecting the privacy of our Steering Committee members.
 
