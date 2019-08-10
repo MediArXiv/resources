@@ -17,7 +17,7 @@ In an effort to represent and include the broadest possible spectrum of media sc
 * **SEXUAL ORIENTATION:** We will aim to include representatives with a broad range of sexual orientations.
 * **RELIGION:** We will aim to include representatives with a broad range of religious commitments.
 * **AGE:** We will aim to include representatives with a broad range of ages.
-* **WAYS OF SEEING:** We will aim to include representatives who bear a diverse range of worldviews, politics, and points of fives.
+* **WAYS OF SEEING:** We will aim to include representatives who bear a diverse range of worldviews, politics, and points of views.
 
 We recognize that we may not always achieve all of these objectives, and will be as transparent as possible about our effectiveness within the confines of respecting the privacy of our Steering Committee members.
 
