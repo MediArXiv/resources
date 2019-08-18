@@ -25,3 +25,4 @@ We also recognize we may not yet be considering all aspects of how identity shap
 
 This statement is adapted from the [Diversity Statement](https://github.com/paleorXiv/resources/blob/master/Diversity%20statement.pdf) of PaleorXiv.
  
+*The policy was formally adopted in August 2019, with a unanimous (7-0) vote by the MediArXiv Steering Committee.*
