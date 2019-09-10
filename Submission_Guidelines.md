@@ -39,3 +39,5 @@
 For more information, please [contact us](mailto:mediarxiv@mediarxiv.com).
 
 *These submission guidelines are adapted from the [guidelines](https://github.com/paleorXiv/resources/blob/master/PaleorXiv%20submission%20guidelines%20for%20authors.pdf) of Paleorxiv.*
+
+*The policy was formally adopted in September 2019, with a unanimous (13-0) vote by the MediArXiv Steering Committee.*
