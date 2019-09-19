@@ -11,7 +11,7 @@
 	* Previously published articles, books, or book chapters that you wish to make Open Access.
 * Please check the [Sherpa/ROMEO](http://www.sherpa.ac.uk/romeo/index.php) database for publisher policies on pre/post-prints
 * Submissions must be plausibly categorized (according to the MediArXiv taxonomy), with authors correctly and adequately identified. Authors must ensure that they have the legal right, and are appropriately authorised, to share any such submission. Accepted work includes, but is not limited to, papers, book chapters, and reviews, essays, critiques and comments on other work, systematic reviews, hypotheses, ‘negative’ results, and data and methods papers. Work on MediArXiv is either research or engages with research. Over time, we are committed to accepting scholarly works produced in a variety of non-traditional media formats.
-* We accept submissions in a number of languages, including English, Chinese, Dutch, French, Finnish, German, Irish, Portuguese, Spanish, and Turkish. Additional languages may be added depending on Steering Committee competency.
+* We accept submissions in a number of languages, including English, Chinese, Dutch, Filipino, Finnish, French, German, Irish, Portuguese, Spanish, and Turkish. Additional languages may be added depending on Steering Committee competency.
  
 ## How To Share a Work On MediArXiv
 
