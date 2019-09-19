@@ -22,8 +22,9 @@ The MediArXiv moderation process accepts papers and other works that:
 
 	* Chinese (Traditional & Simplified)
 	* Dutch
-	* French
+	* Filipino
 	* Finnish
+	* French
 	* German
 	* Irish
 	* Portuguese
