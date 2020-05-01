@@ -1,3 +1,5 @@
+# Bylaws
+
 *Formally adopted by vote of the Steering Committee in April  2020*
 
 <br>
