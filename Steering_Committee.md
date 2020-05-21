@@ -4,7 +4,6 @@
 * [Jeroen Sondervan](https://www.uu.nl/staff/JSondervan), open access expert & and co-founder of Open Access in Media Studies. Affiliated with Utrecht University (Netherlands) **[Coordinator]** | **[Dutch language moderation]** - [@jeroenson](https://twitter.com/jeroenson)
 * [Sarah-Mai Dang](http://www.oabooks.de/about/academic-cv-en/), Postdoctoral Researcher at the Institute of Media Studies, Philipps University Marburg (Germany) **[German and French language moderation]** - [@SarahMaiDang](https://twitter.com/SarahMaiDang)
 * [Lai-Tze Fan](https://laitzefan.com/), Assistant Professor of Rhetoric and Digital Media, University of Waterloo (Canada) - [@lychee_fan](https://twitter.com/lychee_fan)
-* [Catherine Grant](https://catherinegrant.org/), Professor of Digital Media and Screen Studies, Birkbeck, University of London (UK)  - [@CageyRant](https://twitter.com/CageyRant)
 * [Jonathan Gray](https://jonathangray.org/), Lecturer in Critical Infrastructure Studies, King's College London (UK) - [@jwyg](https://twitter.com/jwyg)
 * [Adelheid Heftberger](https://hcommons.org/members/heftberger2017/), Head of Film Access, Bundesarchiv (German Federal Archive) (Germany) - [@adelheidh4](https://twitter.com/adelheidh4)
 * [Leah Lievrouw](http://www.tft.ucla.edu/2011/09/faculty-leah-lievrouw/), Professor of Information Studies, UCLA (USA) - [@leah53](https://twitter.com/leah53)
