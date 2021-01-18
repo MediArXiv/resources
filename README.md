@@ -23,10 +23,9 @@ MediArXiv is led by a Steering Committee comprised of members from the global me
 * [Sarah-Mai Dang](http://www.oabooks.de/about/academic-cv-en/), Postdoctoral Researcher at the Institute of Media Studies, Philipps University Marburg (Germany)
 * [Lai-Tze Fan](https://laitzefan.com/), Assistant Professor of Rhetoric and Digital Media, University of Waterloo (Canada)
 * [Jonathan Gray](https://jonathangray.org/), Lecturer in Critical Infrastructure Studies, King's College London (UK)
-* [Adelheid Heftberger](https://hcommons.org/members/heftberger2017/), Head of Film Access, Bundesarchiv (German Federal Archive) (Germany)
 * [Leah Lievrouw](http://www.tft.ucla.edu/2011/09/faculty-leah-lievrouw/), Professor of Information Studies, UCLA (USA)
 * [Nyasha Mboti](https://www.uj.ac.za/contact/Pages/Nyasha-Mboti.aspx), Associate Professor of Communication Studies, University of Johannesburg (South Africa)
-* [Gabriel Menotti](http://comunicacaosocial.ufes.br/pos-graduacao/POSCOM/detalhes-de-pessoal), Associate Professor of Communications, Federal University of Espírito Santo (Brazil)
+* [Gabriel Menotti](http://comunicacaosocial.ufes.br/pos-graduacao/POSCOM/detalhes-de-pessoal), Assistant Professor at Queen's University, Ontario
 * [Ricardo Cedeño Montaña](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001350433), Associate Professor of Communications, Universidad de Antioquia (Colombia)
 * [Maria O'Brien](https://mobile.twitter.com/dublinbermia?lang=en), PhD Candidate, School of Communications, Dublin City University (Ireland)
 * [Kate O'Riordan](http://www.sussex.ac.uk/profiles/30746), Professor of Digital Culture & Head of School of Media, Film and Music, University of Sussex (UK)
